@@ -1,1 +1,1 @@
-# inotebook
+A full-stack Notes App with user authentication where users can sign up, log in, and manage their personal notes — including creating, editing, and deleting them. Built with React, Node.js, Express, and MongoDB.
